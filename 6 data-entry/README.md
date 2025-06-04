@@ -1,0 +1,13 @@
+# 6. Data Entry
+
+Data entry is the process by which a user submits information containing relevant SNOMED CT Concept identifiers for storage in a record system (e.g. an EHR system).
+
+The way data entry is carried out depends on the setting in which it is performed. In one simple approach a user selects a term from a list of search results, confirms the selection and the Identifier or Description of the selected Concept is added to the relevant field in a database record. This guide considers a range of different modes of data entry which can make it quicker and easier to record different types of information in particular situations.
+
+The focus of this section is on the non-search aspect of data entry but it is also important to recognize that this is usually only one part of the process of recording clinical information. Therefore, the way SNOMED CT data entry is integrated with the overall process of data capture also needs to be considered.
+
+  * [6.1. Benefits of Using SNOMED CT for Data Entry](6.1.-Benefits-of-Using-SNOMED-CT-for-Data-Entry_33490677.html)
+  * [6.2. Structured Data Entry](6.2.-Structured-Data-Entry_33490684.html)
+  * [6.3. Constraining Data Entry](6.3.-Constraining-Data-Entry_33490699.html)
+  * [6.4. Entering Refinements for Post-Coordinated Expressions](6.4.-Entering-Refinements-for-Post-Coordinated-Expressions_33490706.html)
+

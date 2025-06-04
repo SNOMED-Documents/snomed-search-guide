@@ -1,0 +1,3 @@
+# 6.2. Structured Data Entry
+
+Structured data entry can be applied to support effective data entry and ensure consistent use of Concepts. When using structured data entry methods, [SNOMED CT](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+CT "Glossary link: SNOMED CT") encoded data can be selected in a variety of ways. Some of these involve direct selection of terms while other ways involve encoding which may result from responses to simple choices or entry of particular data values. The sub-section below shows requirements for structured data entry and examples of mechanisms for data entry. 

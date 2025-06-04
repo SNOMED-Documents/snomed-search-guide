@@ -1,0 +1,3 @@
+# 6.3. Constraining Data Entry
+
+Constraining searches refers to disabling Concepts or Descriptions in searches and navigation or allowing these search and navigation results to be filtered. [See [Constrained Searches](4.4.-Constrained-Searches_33490623.html)] However, some Concepts and Descriptions that are suitable to be displayed as search results or navigation results, may not be suitable for recording in a patient record once search constraints have been applied. Constraining data entry refers to applying constraints so that only Concepts and Descriptions suitable for recording are selectable. 

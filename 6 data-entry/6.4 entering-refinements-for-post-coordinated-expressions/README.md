@@ -1,0 +1,5 @@
+# 6.4. Entering Refinements for Post-Coordinated Expressions
+
+SNOMED CT contains [Concepts](https://confluence.ihtsdotools.org/display/DOCGLOSS/Concept "Glossary link: Concepts") that allow many clinical ideas to be represented by a single _Concept identifier_. However, SNOMED CT also allows more specific ideas to be represented even when they cannot be expressed by a single Concept. This is achieved by adding [refinements](https://confluence.ihtsdotools.org/display/DOCGLOSS/refinement "Glossary link: refinements") to a selected [Concept](https://confluence.ihtsdotools.org/display/DOCGLOSS/Concept "Glossary link: Concept") creating a [post-coordinated](https://confluence.ihtsdotools.org/display/DOCGLOSS/postcoordinated "Glossary link: postcoordinated") expression containing several Concept Identifiers _._
+
+Several types of post-coordinated data are outlined in this section from the perspective of data entry. These include refinement, qualification and combination. The requirements for and relevance of each of these will depend on decisions about data representation within patient records.
