@@ -4,23 +4,16 @@ Today, a variety of general purpose text search tools and software libraries are
 
 Effective implementation of SNOMED CT depends on the speed and simplicity with which users can locate the terms and Concepts that they wish to use. A busy clinical user may become frustrated if the content they need cannot be quickly located when they search using familiar words or phrases. For this reason an efficient search strategy should address the many of the following key issues:
 
-  * Search should not be too sensitive to word order or exact phrasing:
-    * Search should be insensitive to word - order variants:
-      * For example, "head pain" for | pain in head |
-    * Allow use of acronyms or abbreviations for frequently used terms:
-      * For example, "MI" for "myocardial infarction" or "mitral incompetence".
-  * Excessive search results should not hinder selection of the required Concept:
-    * When several synonyms of the same Concept match the search key, only one may need to be displayed.
-  * Speed result ordering
-  * Speed of search: 
-    * Search speed should be optimized
-      * For example, use appropriate indexes (e.g. single key index).
+* Search should not be too sensitive to word order or exact phrasing:
+  * Search should be insensitive to word - order variants:
+    * For example, "head pain" for | pain in head |
+  * Allow use of acronyms or abbreviations for frequently used terms:
+    * For example, "MI" for "myocardial infarction" or "mitral incompetence".
+* Excessive search results should not hinder selection of the required Concept:
+  * When several synonyms of the same Concept match the search key, only one may need to be displayed.
+* Speed result ordering
+* Speed of search:
+  * Search speed should be optimized
+    * For example, use appropriate indexes (e.g. single key index).
 
-The purpose of this section is to describe various strategies that might be used to implement the search requirements outlined above. A balance must be kept between the completeness and specificity of searches. Therefore, the next two sections consider techniques that extend searches to improve completeness and techniques that constrain searches to improve specificity.
-
-  * [4.1. Search by Text](4.1.-Search-by-Text_33490599.html)
-  * [4.2. Search by Identifiers](4.2.-Search-by-Identifiers_33490613.html)
-  * [4.3. Extended Searches](4.3.-Extended-Searches_33490614.html)
-  * [4.4. Constrained Searches](4.4.-Constrained-Searches_33490623.html)
-  * [4.5. Improve Search Speed](4.5.-Improve-Search-Speed_33490633.html)
-
+The purpose of this section is to describe various strategies that might be used to implement the search requirements outlined above. A balance must be kept between the completeness and specificity of searches. Therefore, the next sections consider techniques that extend searches to improve completeness and techniques that constrain searches to improve specificity.
