@@ -13,7 +13,7 @@ A single _keyword_ search may be conducted as follows:
 * One word is selected from the parsed word list to use as a look-up on the single keyword index;
 * Look-up on the single keyword index may be "exact" or "starts with," depending on wild card conventions used in the search string.
 
-**Example: Search using single key-word index**
+### **Example: Search using single key-word index**
 
 The user searches for "Hip\* replacement\*" (where "\*" represents the wild card for any number of extra characters).
 
@@ -54,7 +54,7 @@ A search on the dual key index can only be carried out if the user enters a sear
 * Use this dual key to look up exact matches on the word pair index;
 * _Descriptions_ found by searching on the word pair index are screened, to see if they contain the complete words in the original search _string_
 
-**Example: Search using word pair index**
+### **Example: Search using word pair index**
 
 User searches for "PYRO\* 1 OXYGEN\*".
 
