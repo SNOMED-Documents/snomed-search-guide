@@ -1,6 +1,6 @@
-# 4.4. Constrained Searches
+# Constrained Searches
 
-Constraining searches enables the search browser to return fewer candidate matches. This is opposite to extending searches (see [**4.3. Extended Searches**](<../4.3 extended-searches/>)). The intention of constraining a search is to avoid getting a long list of search results to scroll through. This shortens the time the user needs to find the required Concept, thereby increasing the usability of the application.
+Constraining searches enables the search browser to return fewer candidate matches. This is opposite to extending searches (see [**Extended Searches**](<../4.3 extended-searches/>)). The intention of constraining a search is to avoid getting a long list of search results to scroll through. This shortens the time the user needs to find the required Concept, thereby increasing the usability of the application.
 
 ## Constrain searches by excluding "stop words"
 

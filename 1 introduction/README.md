@@ -1,14 +1,14 @@
-# 1. Introduction
+# Introduction
 
-## 1.1 Purpose of This Guide
+## Purpose of This Guide
 
 This guide provides advice on two related activities that are essential for use of any code system: finding a term and saving the term and related code into the record. The first part of this guide is concerned with searching the content of SNOMED CT to find concepts that represent particular clinical ideas. The second part of the guide is concerned with ways to use SNOMED CT to support entry of relevant clinical information in electronic health records.
 
-## 1.2 Who Should Read This Guide
+## Who Should Read This Guide
 
 This guide should be read by anyone involved in search and data entry. These people fall into two broad categories:
 
-### 1.2.1 End users of applications that support SNOMED CT-enabled search and data entry
+### End users of applications that support SNOMED CT-enabled search and data entry
 
 _These people need:_
 
@@ -20,7 +20,7 @@ _This guide provides:_
 * A high-level description of the importance of different search and data entry features
 * Examples of each of the features described.
 
-### 1.2.2 Those designing, developing, procuring or evaluating services that include support for SNOMED CT-enabled search and data entry
+### Those designing, developing, procuring or evaluating services that include support for SNOMED CT-enabled search and data entry
 
 _These people need:_
 
@@ -32,7 +32,7 @@ _This guide provides:_
 * Descriptions of search and data entry features which enable successful implementation.
 * Summaries of tried and tested techniques for delivering many of these features.
 
-## 1.3 What Is Special About Searching SNOMED CT?
+## What Is Special About Searching SNOMED CT?
 
 At face value it may seem unusual to have a specific guide for searching one terminology. General purpose search routines may seem to be applicable to any list of terms and, by comparison with internet searches, even a terminology with over a million terms does not seem too challenging. However, there are aspects of SNOMED CT that, while presenting challenges to simple searches, also enable enhancements that can deliver highly effective search optimization.
 
@@ -49,7 +49,7 @@ The logical design of SNOMED CT allows capture of meaningful clinical informatio
 
 This guide presents practical ways to make terminology searches which lead to accurate and complete clinical noting. While searches need to be fast, response times of a second or two may be acceptable if the displayed results are more relevant. A well-designed search solution should minimize the overall time to take to record clinical information. This guide does not suggest a single approach but identifies ways to address different requirements with appropriate solutions.
 
-## 1.4 Search Configuration
+## Search Configuration
 
 Many of the search techniques described in this guide can be applied to a range of different requirements. However, some search techniques require a degree of configuration to meet the needs of particular users and particular types of data collection.
 
@@ -59,7 +59,7 @@ Various levels of configuration should be considered including:
 * Settings bound to data input fields that make it easy to enter commonly used values and prevent entry of inappropriate values. For example, limiting entries to a particular subset of SNOMED CT content and prioritizing some members of that set.
 * User configuration that enables modification while using a front-end application to refine searches. For example, setting the search mode to include complete, partial or pattern based phrase matches or to limit searches to a particular hierarchy.
 
-## 1.5 About Search and Data Entry
+## About Search and Data Entry
 
 Search and data entry are closely related and as illustrated in Figure 1 can be regarded as two steps in a single process. A clinical user needs to record a clinical idea (e.g. a sign, symptom, diagnosis or procedure). The user searches for the relevant Concept, views the results, finds the appropriate Concept, selects it for data entry and the data is stored.
 
