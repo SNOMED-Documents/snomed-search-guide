@@ -1,8 +1,6 @@
-# appendix-a-using-search-index-files
+# Appendix A - Using Search Index Files
 
-## Appendix A - Using Search Index Files
-
-This appendix focuses on searches using two indexes (or tables), which can be found in the Lexical Resources folder, which is available from the [Technical Resources](https://confluence.ihtsdotools.org/display/DOC/Technical+Resources) in the [Document Library](https://confluence.ihtsdotools.org/display/ELPM/Document+Library). These indexes are designed to facilitate development of effective search facilities while reducing duplication of effort. Although indexes are available in the available files, implementers may need to know how to add keyword entries for any locally generated descriptions added as part of an Extension. Please refer to the "Generating the single key index" and "Generating the DualKey index" sub-sections in the Technical Implementation Guide for technical guidance on generating these indexes.
+<mark style="background-color:red;">This appendix focuses on searches using two indexes (or tables), which can be found in the Lexical Resources folder, which is available from the</mark> [<mark style="background-color:red;">Technical Resources</mark>](https://confluence.ihtsdotools.org/display/DOC/Technical+Resources) <mark style="background-color:red;">in the</mark> [<mark style="background-color:red;">Document Library</mark>](https://confluence.ihtsdotools.org/display/ELPM/Document+Library)<mark style="background-color:red;">.</mark> These indexes are designed to facilitate development of effective search facilities while reducing duplication of effort. Although indexes are available in the available files, implementers may need to know how to add keyword entries for any locally generated descriptions added as part of an Extension. Please refer to the "Generating the single key index" and "Generating the DualKey index" sub-sections in the Technical Implementation Guide for technical guidance on generating these indexes.
 
 ## Search Using Single Keyword Index
 
