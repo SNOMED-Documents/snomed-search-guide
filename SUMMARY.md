@@ -30,5 +30,4 @@
   * [Entering Refinements for Post-Coordinated Expressions](6-data-entry/6.4-entering-refinements-for-post-coordinated-expressions.md)
 * [Appendix](appendix/README.md)
   * [Appendix A - Using Search Index Files](appendix/appendix-a-using-search-index-files.md)
-  * [Appendix B - Future Additions to this Guide](appendix/appendix-b-future-additions-to-this-guide.md)
-  * [Appendix C- An Example Search and Data Entry Overview Table](appendix/appendix-c-an-example-search-and-data-entry-overview-table.md)
+  * [Appendix B- An Example Search and Data Entry Overview Table](appendix/appendix-c-an-example-search-and-data-entry-overview-table.md)
