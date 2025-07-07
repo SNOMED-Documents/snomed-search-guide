@@ -61,9 +61,9 @@ Various levels of configuration should be considered including:
 
 ## About Search and Data Entry
 
-Search and data entry are closely related and as illustrated in Figure 1 can be regarded as two steps in a single process. A clinical user needs to record a clinical idea (e.g. a sign, symptom, diagnosis or procedure). The user searches for the relevant Concept, views the results, finds the appropriate Concept, selects it for data entry and the data is stored.
+Search and data entry are closely related and as illustrated the image below; can be regarded as two steps in a single process. A clinical user needs to record a clinical idea (e.g. a sign, symptom, diagnosis or procedure). The user searches for the relevant Concept, views the results, finds the appropriate Concept, selects it for data entry and the data is stored.
 
-<figure><img src="../images/52170451.png" alt=""><figcaption><p>Figure 1-1: A search and data entry process</p></figcaption></figure>
+<figure><img src="../images/52170451.png" alt=""><figcaption><p>A search and data entry process</p></figcaption></figure>
 
 Although there is often a close relationship between search and data entry, the two processes also need to be considered separately. This guide has therefore been categorized into two parts: the Search part and the Data Entry part.
 
