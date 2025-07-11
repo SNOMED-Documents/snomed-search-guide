@@ -17,3 +17,10 @@ Effective implementation of SNOMED CT depends on the speed and simplicity with w
     * For example, use appropriate indexes (e.g. single key index).
 
 The purpose of this section is to describe various strategies that might be used to implement the search requirements outlined above. A balance must be kept between the completeness and specificity of searches. Therefore, the next sections consider techniques that extend searches to improve completeness and techniques that constrain searches to improve specificity.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=4.%20Optimizing%20Searches" class="button primary">Provide Feedback</a>

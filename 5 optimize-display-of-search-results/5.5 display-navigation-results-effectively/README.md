@@ -4,3 +4,10 @@ Results navigation is a useful feature for search browsers to have in addition t
 
 * [Using the Subtype Hierarchy](5.5.1-using-the-subtype-hierarchy.md)
 * [Using the Navigation Hierarchy](5.5.3-using-the-navigation-hierarchy.md)
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=Display%20Navigation%20Results%20Effectively" class="button primary">Provide Feedback</a>

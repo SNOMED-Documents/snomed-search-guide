@@ -28,3 +28,10 @@ layout:
 SNOMED CT Document Library: [http://snomed.org/doc](http://snomed.org/doc)
 
 {% include ".gitbook/includes/untitled.md" %}
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=Implementation%20Guide%20FRONT%20PAGE" class="button primary">Provide Feedback</a>

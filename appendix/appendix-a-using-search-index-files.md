@@ -84,3 +84,10 @@ Use this dual key to look up exact matches on the word pair index.
 
 * Description, 1969019, is eliminated since it does not contain the word "1";
 * Description, 104951019, is eliminated; it does not contain the word "1" or any word beginning with the string "pyro".
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=Appendix%20A%20-%20Using%20Search%20Index%20Files" class="button primary">Provide Feedback</a>

@@ -8,3 +8,10 @@ This section describes how search results can be ordered rationally. When develo
 * [Rationalize Search Results by Subsumption Checking](5.4-rationalize-search-results-by-subsumption-checking.md)
 * [Display Navigation Results Effectively](<5.5 display-navigation-results-effectively/>)
 * [Use Mnemonics and Personal Favorites for Data Entry](5.6-use-mnemonics-and-personal-favorites-for-data-entry.md)
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=Optimize%20Display%20of%20Search%20Results" class="button primary">Provide Feedback</a>

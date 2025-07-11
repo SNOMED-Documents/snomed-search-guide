@@ -10,3 +10,10 @@ The focus of this section is on the non-search aspect of data entry but it is al
 * [Structured Data Entry](../6-data-entry/6.2-structured-data-entry.md)
 * [Constraining Data Entry](../6-data-entry/6.3-constraining-data-entry.md)
 * [Entering Refinements for Post-Coordinated Expressions](../6-data-entry/6.4-entering-refinements-for-post-coordinated-expressions.md)
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=Data%20Entry" class="button primary">Provide Feedback</a>

@@ -83,3 +83,10 @@ Users may enter data including SNOMED CT terms using techniques that do not invo
 * Natural language processing (NLP) including tagging of particular phrases with particular Concept identifiers. Please note that NLP techniques are out of scope of this guide.
 
 For further information about structured data entry techniques, please refer to the "[Data Entry](<../6 data-entry/>)" section.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Search+And+Data+Entry+Guide&entry.670899847=Introduction" class="button primary">Provide Feedback</a>
